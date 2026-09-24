@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(143, 176, 192);
+}
+
+.profile-card{
+    border: 2px solid black;
+    width :400px;
+    height: 400px;
+
+}
+.newbox{
+    background: #e9e4e4;
+    margin:30px;
+    border : 2px solid black;
+    width: 40px;
+
+}
